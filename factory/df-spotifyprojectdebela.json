@@ -1,0 +1,15 @@
+{
+	"name": "df-spotifyprojectdebela",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ead63e62-413c-4e5c-a2c3-e30b8376d6f5",
+		"tenantId": "93dca189-6299-4493-90f1-6fe73f154457"
+	}
+}
