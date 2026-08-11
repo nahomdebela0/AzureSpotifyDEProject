@@ -246,7 +246,7 @@
 									"type": "DatasetReference",
 									"parameters": {
 										"container": "bronze",
-										"folder": "cdc",
+										"folder": "@{pipeline().parameters.table}_cdc",
 										"file": "empty.json"
 									}
 								}
