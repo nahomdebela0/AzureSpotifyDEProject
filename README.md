@@ -7,6 +7,7 @@ Azure Architecture & Platform
 - Azure architecture
 - Azure networking basics
 - Azure cost management and resource cleanup
+  
 Azure SQL Database
 - Azure SQL Database
 Azure Data Factory
