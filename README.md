@@ -10,6 +10,7 @@ Azure Architecture & Platform
   
 Azure SQL Database
 - Azure SQL Database
+  
 Azure Data Factory
 - Azure Data Factory
 - ADF dynamic expressions and parameterization
@@ -20,38 +21,48 @@ Azure Data Factory
 - Pipeline error handling and retries
 - Logic Apps integration
 - ADF Monitor / Azure Monitor / Log Analytics
+  
 ADLS & Lakehouse Storage
 - ADLS Gen2
 - Medallion architecture: Bronze, Silver, Gold
 - Parquet and Delta Lake
+  
 Databricks
 - Azure Databricks
 - Incremental loading in Databricks
 - Databricks Asset Bundles
+  
 PySpark & Python
 - PySpark transformations
 - Python utilities
+  
 Spark Structured Streaming & Auto Loader
 - Spark Structured Streaming
 - Auto Loader
 - Streaming checkpoints and recovery
 - Idempotency, deduplication, and upsert concepts
+  
 Unity Catalog
 - Unity Catalog
 - Managed vs external tables
 - Storage credentials, Managed Identity, and Access Connector
+  
 Data Quality
 - Data quality expectations
+  
 Jinja2 & Metadata-Driven SQL
 - Jinja2 templating
 - Metadata-driven SQL generation
+  
 Data Modeling
 - Star schema modeling
 - Fact and dimension design
 - Slowly Changing Dimensions
 - SCD sequencing with sequence_by
+  
 Delta Live Tables / Lakeflow
 - Delta Live Tables / Lakeflow Declarative Pipelines
+  
 Git & CI/CD
 - Git / GitHub workflow
 - CI/CD basics
