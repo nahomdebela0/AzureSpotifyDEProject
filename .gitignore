@@ -1,0 +1,17 @@
+# Databricks bundle deployment state and local tooling
+**/.databricks/
+**/.bundle/
+**/state/
+**/.vscode/
+**/__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.publishsettings
